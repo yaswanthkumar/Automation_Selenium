@@ -1,5 +1,5 @@
 # Automation_Selenium
-The latest version of Selenium, 4.10.0, was released recently with several new features and updates. This version includes improvements to the Selenium Manager, which helps automate the setup of the browser drivers necessary for Selenium tests, aiming to simplify the configuration process. Additionally, Selenium 4.20.0 introduces enhanced support for working with the Chromium-based Edge browser, including better handling of the Edge WebDriver​
+The latest version of Selenium, 4.20.0, was released recently with several new features and updates. This version includes improvements to the Selenium Manager, which helps automate the setup of the browser drivers necessary for Selenium tests, aiming to simplify the configuration process. Additionally, Selenium 4.20.0 introduces enhanced support for working with the Chromium-based Edge browser, including better handling of the Edge WebDriver​
 Selenium is a powerful tool for automating web applications for testing purposes, and understanding its core concepts is essential for effective usage. Here is a list of key concepts in Selenium:
 
 **Selenium WebDriver:** This is the primary interface for creating and executing browser-based automation scripts. It provides a programming interface to interact with web elements on a webpage.
